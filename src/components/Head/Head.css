@@ -1,0 +1,26 @@
+.header-section {
+    background-color: #fff;
+    height: auto;
+    display: flex;
+}
+.logo {
+    width: 20%;
+    display: inline-flex;
+}
+
+.logo img{
+     max-width: 100%;
+}
+.nav-menu {
+    width: 80%;
+    display: inline-flex;
+    flex-flow: column-reverse;
+}
+.nav-menu ul li {
+    line-height: 80px;
+}
+.brand-link {
+    line-height: 75px;
+    color: #000;
+    font-size: 22px;
+}

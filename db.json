@@ -1,0 +1,40 @@
+{
+     "posts": [
+          {
+               "id": 1,
+               "title": "json-server",
+               "author": "bilalk"
+          },
+          {
+               "id": 2,
+               "title": "axios",
+               "author": "bilalk"
+          },
+          {
+               "id": 3,
+               "title": "formik",
+               "author": "bilalk"
+          },
+          {
+               "id": 4,
+               "title": "yup",
+               "author": "bilalk"
+          },
+          {
+               "id": 5,
+               "title": "antd",
+               "author": "bilalk"
+          }
+     ],
+     "users": [
+          {
+               "id": 1,
+               "name": "Bilal Khan",
+               "email": "bilal.zahid@nxb.com.pk",
+               "password": "1Pakistan"
+          }
+     ],
+     "profile": {
+          "name": "bilalk"
+     }
+}
